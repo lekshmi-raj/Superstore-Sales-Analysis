@@ -24,7 +24,7 @@ Analyze $2.3M US Superstore sales (17K orders, 2014-2018) to find revenue driver
 ## 🛠️ Tech Stack
 Data Processing: Python (pandas)
 EDA: matplotlib, seaborn
-Dashboard: Power BI (slicers, tooltips, conditional formatting)
+Dashboard: Power BI (slicers, data labels, conditional formatting)
 
 ## 📁 Download Files
 **[Superstore_Dashboard.pdf](Superstore_Dashboard.pdf)** - View interactive 3-page dashboard  
